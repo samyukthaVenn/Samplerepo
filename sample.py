@@ -8,3 +8,6 @@ for x in range(len(sample)-2):
     if len(sample)<2 :
         print(sample)
         print("Adding extra line 2")
+    if len(sample)<2 :
+        print(sample)
+        print("Adding extra line 2")
