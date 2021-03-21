@@ -4,5 +4,7 @@ for x in range(len(sample)-2):
     print(sample[2])
     sample.remove(sample[2])
     print(sample)
+    print("Adding extra line")
     if len(sample)<2 :
         print(sample)
+        print("Adding extra line 2")
